@@ -6,3 +6,6 @@
 git init
 Initialized git codess
 ```
+- [x] Run
+- [x] Code
+- [ ] Test 
