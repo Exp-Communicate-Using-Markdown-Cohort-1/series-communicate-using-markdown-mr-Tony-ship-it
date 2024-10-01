@@ -8,4 +8,8 @@ Initialized git codess
 ```
 - [x] Run
 - [x] Code
-- [ ] Test 
+- [x] Test
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
