@@ -1,26 +1,25 @@
+|[home](#my-small-house)|[about](#learn-me)|
 
 # Hi My  dear friends
 
-```
-use this tips for future development
-```
+
+`use this tips for future development`
 
 <details>
   <summary>Look here</summary>
 
   #### How is your life journey?
 
->[!TIPS]
+`Enjoy it and love it huhuuu`
+</details>
+
+>[!NOTE]
 >stay confident
 >ready to strive for actual dreams
 
->[!NOTE]
->Try to understand first then follow it.
 
-</details>
 [Cyber Buddy](www.google.com)
 
-|[home](#my-small-hoouse)|[about](#learn-me)|
 
 
 
@@ -34,5 +33,4 @@ use this tips for future development
 
 
  # Learn Me
-![legend](https://media.gettyimages.com/id/604867582/photo/medieval-knight-with-banner-and-sword-standing-near-burning-castle.jpg)
- 
+[![legend](https://imgs.search.brave.com/ARbJEqyw-wGKD2BjoN9EGUK1TUHlmv0JS3mBVr5UNUQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDkx/NjA2MzQ2L3Bob3Rv/L21lZGlldmFsLWtu/aWdodC1rbmVlbGlu/Zy13aXRoLXN3b3Jk/LWluLWZyb250LW9m/LWJ1aWxkaW5nLXJ1/aW4uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPXV4TjFyNlIx/YllpSTNmcWxRcU9t/QjkzVzZqUHFXVlNy/cTcwdGlSQjZuZ289)
