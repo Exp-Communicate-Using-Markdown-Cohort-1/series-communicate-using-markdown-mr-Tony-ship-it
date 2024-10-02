@@ -1,4 +1,4 @@
-|[home](#my-small-house)|[about](#learn-me)|
+|[home](#my-small-house) | [about](#learn-me)|
 
 # Hi My  dear friends
 
@@ -19,6 +19,8 @@
 - enjoy your achivements
 - take beraks
 
+- [x] selected
+- [ ] not selected
 
 >[!NOTE]
 >stay confident
@@ -32,7 +34,7 @@
 
 
 # My small House
-<a name="my small house">Are you here</a>
+
 
  *Welcome* to this **paradise**🎉
 
