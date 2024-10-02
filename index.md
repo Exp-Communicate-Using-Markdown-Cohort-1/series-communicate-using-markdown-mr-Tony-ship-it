@@ -10,7 +10,7 @@ use this tips for future development
 
   #### How is your life journey?
 
-  >[!tips]
+  >[!notes]
 >stay confident
 >ready to strive for actual dreams
 </details>
@@ -30,5 +30,5 @@ use this tips for future development
 
 
  # Learn Me
-![legend](https://media.gettyimages.com/id/604867582/photo/medieval-knight-with-banner-and-sword-standing-near-burning-castle.jpg?height=200&width=400)
+![legend](https://media.gettyimages.com/id/604867582/photo/medieval-knight-with-banner-and-sword-standing-near-burning-castle.jpg)
  
