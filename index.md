@@ -10,9 +10,13 @@ use this tips for future development
 
   #### How is your life journey?
 
-  >[!notes]
+>[!TIPS]
 >stay confident
 >ready to strive for actual dreams
+
+>[!NOTE]
+>Try to understand first then follow it.
+
 </details>
 [Cyber Buddy](www.google.com)
 
