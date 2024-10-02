@@ -1,4 +1,4 @@
-| [home](#my-small-house) | [about](#learn-me) |
+
 
 # Hi My  dear friends
 
@@ -19,6 +19,8 @@
 - enjoy your achivements
 - take beraks
 
+- [x] selected
+- [ ] not selected
 
 >[!NOTE]
 >stay confident
@@ -35,6 +37,7 @@
 
 
 # My small House
+
 
  *Welcome* to this **paradise**🎉
 
