@@ -13,6 +13,13 @@
 `Enjoy it and love it huhuuu`
 </details>
 
+##### Tactics
+
+- try to learn what are you going to larn
+- enjoy your achivements
+- take beraks
+
+
 >[!NOTE]
 >stay confident
 >ready to strive for actual dreams
