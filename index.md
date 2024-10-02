@@ -1,4 +1,4 @@
-|[home](#my-small-house) | [about](#learn-me)|
+
 
 # Hi My  dear friends
 
@@ -31,6 +31,9 @@
 
 
 
+- [x] selected
+- [ ] not selected 
+
 
 
 # My small House
@@ -42,4 +45,4 @@
 
 
  # Learn Me
-![legend](https://imgs.search.brave.com/ARbJEqyw-wGKD2BjoN9EGUK1TUHlmv0JS3mBVr5UNUQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDkx/NjA2MzQ2L3Bob3Rv/L21lZGlldmFsLWtu/aWdodC1rbmVlbGlu/Zy13aXRoLXN3b3Jk/LWluLWZyb250LW9m/LWJ1aWxkaW5nLXJ1/aW4uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPXV4TjFyNlIx/YllpSTNmcWxRcU9t/QjkzVzZqUHFXVlNy/cTcwdGlSQjZuZ289)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
